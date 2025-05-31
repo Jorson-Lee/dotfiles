@@ -1,0 +1,701 @@
+ 5月 17 15:28:39 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 181.[0m
+ 5月 17 15:28:39 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 17 15:28:39 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwp-event-dispatcher: <WpAsyncEventHook:0x5645ee1c5f30> failed: failed to activate item: Object activation aborted: proxy destroyed[0m
+ 5月 17 15:28:39 fedora wireplumber[2350]: [0:01:13.018243482] [2350]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 17 15:30:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 17 15:38:20 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 17 15:39:30 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:39:30 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:723269133897 a:723269142784 f:723269388608 waiting:8887 process:245824 status:triggered[0m
+ 5月 17 15:44:11 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:44:11 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:1005169850503 a:1005169859250 f:1005170117603 waiting:8747 process:258353 status:triggered[0m
+ 5月 17 15:45:28 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:45:28 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:1081288344459 a:1081288355954 f:1081288630072 waiting:11495 process:274118 status:triggered[0m
+ 5月 17 15:47:58 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:47:58 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:1231779313772 a:1231779324672 f:1231779572169 waiting:10900 process:247497 status:triggered[0m
+ 5月 17 15:48:18 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:48:18 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:1251665500228 a:1251665511337 f:1251665770325 waiting:11109 process:258988 status:triggered[0m
+ 5月 17 15:49:22 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:49:22 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:1315342545527 a:1315342553977 f:1315342798315 waiting:8450 process:244338 status:triggered[0m
+ 5月 17 15:50:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) graph xrun inactive (0 suppressed)[0m
+ 5月 17 15:50:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-65) xrun state:0x7f3d1a421008 pending:0/0 s:1385615899315 a:1385615911666 f:1385616349503 waiting:12351 process:437837 status:triggered[0m
+ 5月 17 15:52:15 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.sink.media: 0x7f3cf15fb038: error 24[0m
+ 5月 17 15:52:15 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-65) running -> error (Received error event)[0m
+ 5月 17 15:52:15 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5: Failure in Bluetooth audio transport /org/bluez/hci0/dev_F4_9D_8A_5C_39_DC/sep1/fd1[0m
+ 5月 19 10:30:37 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 19 10:32:36 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 19 11:37:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 19 11:52:29 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-62) graph xrun inactive (0 suppressed)[0m
+ 5月 19 11:52:29 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-62) xrun state:0x7f3d1999a008 pending:0/0 s:6449227601471 a:6449227608188 f:6449227766820 waiting:6717 process:158632 status:triggered[0m
+ 5月 19 12:33:37 2001-b011-6c09-77c9-2ee6-94b2-058a-fc08.dynamic-ip6.hinet.net wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 19 12:35:07 2001-b011-6c09-77c9-2ee6-94b2-058a-fc08.dynamic-ip6.hinet.net wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 19 13:19:56 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-69) graph xrun inactive (0 suppressed)[0m
+ 5月 19 13:20:16 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-69) graph xrun inactive (0 suppressed)[0m
+ 5月 19 13:20:16 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-69) xrun state:0x7f3d1999a008 pending:0/0 s:11717007291597 a:11717007302317 f:11717007570655 waiting:10720 process:268338 status:triggered[0m
+ 5月 19 14:43:03 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-69) graph xrun inactive (0 suppressed)[0m
+ 5月 19 14:43:03 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-69) xrun state:0x7f3d1999a008 pending:0/0 s:16684084668813 a:16684084678158 f:16684084927127 waiting:9345 process:248969 status:triggered[0m
+ 5月 19 16:07:21 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 19 16:08:39 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 19 16:40:50 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 19 17:51:01 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 17:51:01 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:27091280587257 a:27091280596489 f:27091280840441 waiting:9232 process:243952 status:triggered[0m
+ 5月 19 17:53:04 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 17:53:04 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:27214107798931 a:27214107809523 f:27214108097690 waiting:10592 process:288167 status:triggered[0m
+ 5月 19 17:56:06 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 17:56:06 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:27395983618905 a:27395983629423 f:27395983827370 waiting:10518 process:197947 status:triggered[0m
+ 5月 19 17:59:43 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 17:59:43 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:27613064704831 a:27613064715805 f:27613065103648 waiting:10974 process:387843 status:triggered[0m
+ 5月 19 18:02:37 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:02:37 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:27787705042282 a:27787705051369 f:27787705292008 waiting:9087 process:240639 status:triggered[0m
+ 5月 19 18:03:47 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:03:47 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:27857178245394 a:27857178254958 f:27857178508795 waiting:9564 process:253837 status:triggered[0m
+ 5月 19 18:08:46 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:08:46 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:28156838908722 a:28156838921623 f:28156839227888 waiting:12901 process:306265 status:triggered[0m
+ 5月 19 18:10:26 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:10:26 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:28256283498275 a:28256283509485 f:28256283760191 waiting:11210 process:250706 status:triggered[0m
+ 5月 19 18:14:26 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:14:26 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:28496516518003 a:28496516526596 f:28496516767965 waiting:8593 process:241369 status:triggered[0m
+ 5月 19 18:36:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:36:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:29822427293977 a:29822427302883 f:29822427543823 waiting:8906 process:240940 status:triggered[0m
+ 5月 19 18:46:08 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 19 18:46:08 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d19b5b008 pending:0/0 s:30398483952700 a:30398483961561 f:30398484228615 waiting:8861 process:267054 status:triggered[0m
+ 5月 20 08:45:04 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 20 09:24:32 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 09:30:34 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-52) graph xrun inactive (0 suppressed)[0m
+ 5月 20 09:30:34 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-52) xrun state:0x7f3d1999a008 pending:0/0 s:34336923737208 a:34336923745718 f:34336923985966 waiting:8510 process:240248 status:triggered[0m
+ 5月 20 09:40:46 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-52) graph xrun inactive (0 suppressed)[0m
+ 5月 20 09:40:46 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-52) xrun state:0x7f3d1999a008 pending:0/0 s:34948421125691 a:34948421134981 f:34948421379047 waiting:9290 process:244066 status:triggered[0m
+ 5月 20 09:46:56 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-52) graph xrun inactive (0 suppressed)[0m
+ 5月 20 09:46:56 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-52) xrun state:0x7f3d1999a008 pending:0/0 s:35318797670050 a:35318797680300 f:35318797944841 waiting:10250 process:264541 status:triggered[0m
+ 5月 20 09:59:04 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 10:10:38 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 10:15:22 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 10:15:48 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 10:15:48 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:37050361178726 a:37050361187064 f:37050361384386 waiting:8338 process:197322 status:triggered[0m
+ 5月 20 10:21:41 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 10:21:41 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:37403944840806 a:37403944849632 f:37403945110284 waiting:8826 process:260652 status:triggered[0m
+ 5月 20 10:29:51 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (1 suppressed)[0m
+ 5月 20 10:29:51 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:37893736365393 a:37893736376158 f:37893736622771 waiting:10765 process:246613 status:triggered[0m
+ 5月 20 10:35:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 10:35:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:38211539793844 a:38211539802892 f:38211540068895 waiting:9048 process:266003 status:triggered[0m
+ 5月 20 11:03:42 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 11:03:42 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:39924748467596 a:39924748475457 f:39924748697539 waiting:7861 process:222082 status:triggered[0m
+ 5月 20 11:04:24 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 11:04:24 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:39967223950488 a:39967223961690 f:39967224265563 waiting:11202 process:303873 status:triggered[0m
+ 5月 20 11:17:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 11:17:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:40731459254102 a:40731459264390 f:40731459524037 waiting:10288 process:259647 status:triggered[0m
+ 5月 20 11:43:33 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 11:43:33 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:42316147701021 a:42316147710177 f:42316147958235 waiting:9156 process:248058 status:triggered[0m
+ 5月 20 11:58:49 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 12:10:16 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-71) graph xrun inactive (0 suppressed)[0m
+ 5月 20 12:10:16 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-71) xrun state:0x7f3d1999a008 pending:0/0 s:43918513653465 a:43918513665658 f:43918513978266 waiting:12193 process:312608 status:triggered[0m
+ 5月 20 12:56:17 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 13:21:23 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 13:22:15 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 14:08:26 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-59) graph xrun inactive (0 suppressed)[0m
+ 5月 20 14:08:26 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-59) xrun state:0x7f3d1999a008 pending:0/0 s:51008892449702 a:51008892458219 f:51008892717472 waiting:8517 process:259253 status:triggered[0m
+ 5月 20 14:16:36 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-59) graph xrun not-triggered (0 suppressed)[0m
+ 5月 20 14:16:36 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-59) xrun state:0x7f3d1999a008 pending:1/2 s:51498735755002 a:51498735759949 f:51498735872267 waiting:4947 process:112318 status:triggered[0m
+ 5月 20 14:18:56 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-59) graph xrun inactive (2 suppressed)[0m
+ 5月 20 14:18:56 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-59) xrun state:0x7f3d1999a008 pending:0/0 s:51638938432154 a:51638938466163 f:51638938691831 waiting:34009 process:225668 status:triggered[0m
+ 5月 20 14:49:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.sink.media: 0x5645ee661018: error 24[0m
+ 5月 20 14:49:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-59) running -> error (Received error event)[0m
+ 5月 20 14:49:09 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5: Failure in Bluetooth audio transport /org/bluez/hci0/dev_F4_9D_8A_5C_39_DC/sep2/fd14[0m
+ 5月 20 15:06:08 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 15:09:34 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 15:24:49 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-68) graph xrun inactive (0 suppressed)[0m
+ 5月 20 15:24:49 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-68) xrun state:0x7f3d1999a008 pending:0/0 s:55591375174193 a:55591375192772 f:55591375490820 waiting:18579 process:298048 status:triggered[0m
+ 5月 20 15:31:53 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-68) graph xrun inactive (0 suppressed)[0m
+ 5月 20 15:31:53 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-68) xrun state:0x7f3d1999a008 pending:0/0 s:56015302982990 a:56015302994014 f:56015303271707 waiting:11024 process:277693 status:triggered[0m
+ 5月 20 15:39:33 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 20 15:39:33 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 15:39:35 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwp-event-dispatcher: <WpAsyncEventHook:0x5645ee1b9f20> failed: <WpSiStandardLink:0x5645ee529d90> link failed: 2 of 2 PipeWire links failed to activate[0m
+ 5月 20 15:39:37 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 20 15:39:37 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwp-event-dispatcher: <WpAsyncEventHook:0x5645ee1c5f30> failed: failed to activate item: Object activation aborted: proxy destroyed[0m
+ 5月 20 15:39:40 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 20 15:39:40 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwp-event-dispatcher: <WpAsyncEventHook:0x5645ee1c5f30> failed: failed to activate item: Object activation aborted: proxy destroyed[0m
+ 5月 20 18:40:10 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 20 19:24:47 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 20 20:02:18 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-79) graph xrun inactive (0 suppressed)[0m
+ 5月 20 20:02:18 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-79) xrun state:0x7f3d1999a008 pending:0/0 s:61440696999430 a:61440697025311 f:61440697267791 waiting:25881 process:242480 status:triggered[0m
+ 5月 21 09:11:46 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 21 09:11:50 fedora wireplumber[2350]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 10:00:48 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 541.[0m
+ 5月 21 10:00:48 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 21 10:00:48 fedora wireplumber[2350]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 21 10:00:49 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 541 and the job result is done.[0m
+ 5月 21 10:00:49 fedora systemd[2164]: wireplumber.service: Consumed 9min 46.761s CPU time, 19M memory peak, 1.5M memory swap peak.
+[0;38;5;245m░░ [0m[0;32mSubject: Resources consumed by unit runtime[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT completed and consumed the indicated resources.[0m
+ 5月 21 10:00:49 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 541.[0m
+ 5月 21 10:00:49 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 542.[0m
+ 5月 21 10:00:49 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 542 and the job result is done.[0m
+ 5月 21 10:00:49 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 542.[0m
+ 5月 21 10:00:49 fedora wireplumber[100362]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 21 10:00:49 fedora wireplumber[100362]: [18:12:00.595902285] [100362]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 21 10:00:50 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 10:03:24 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-61) graph xrun inactive (0 suppressed)[0m
+ 5月 21 10:03:24 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-61) xrun state:0x7fd5b56f8008 pending:0/0 s:65674967869081 a:65674967878540 f:65674967926434 waiting:9459 process:47894 status:triggered[0m
+ 5月 21 10:06:28 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Invalid method call[0m
+ 5月 21 10:06:28 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi.server: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Invalid method call[0m
+ 5月 21 10:07:08 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 10:07:49 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 10:07:49 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:65940125594671 a:65940125603912 f:65940125859388 waiting:9241 process:255476 status:triggered[0m
+ 5月 21 10:30:19 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 10:30:19 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:67289680834356 a:67289680845284 f:67289681161435 waiting:10928 process:316151 status:triggered[0m
+ 5月 21 10:36:36 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 10:36:36 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:67667148158766 a:67667148171266 f:67667148468974 waiting:12500 process:297708 status:triggered[0m
+ 5月 21 10:38:55 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 10:38:55 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:67806427613742 a:67806427624151 f:67806427960934 waiting:10409 process:336783 status:triggered[0m
+ 5月 21 11:13:48 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 11:13:48 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:69898974464147 a:69898974496582 f:69898974736496 waiting:32435 process:239914 status:triggered[0m
+ 5月 21 11:15:57 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 11:15:57 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:70027854773047 a:70027854781565 f:70027855037052 waiting:8518 process:255487 status:triggered[0m
+ 5月 21 11:19:14 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 11:19:14 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:70225078682324 a:70225078716203 f:70225078957452 waiting:33879 process:241249 status:triggered[0m
+ 5月 21 11:43:25 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 11:43:25 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:71676251192945 a:71676251201332 f:71676251439760 waiting:8387 process:238428 status:triggered[0m
+ 5月 21 11:49:49 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (0 suppressed)[0m
+ 5月 21 11:49:49 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7fd5b56f8008 pending:0/0 s:72060484087270 a:72060484118449 f:72060484338419 waiting:31179 process:219970 status:triggered[0m
+ 5月 21 13:30:27 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 14:27:45 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-69) graph xrun inactive (0 suppressed)[0m
+ 5月 21 14:27:45 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-69) xrun state:0x7fd5b56f8008 pending:0/0 s:81536517566377 a:81536517574885 f:81536517813584 waiting:8508 process:238699 status:triggered[0m
+ 5月 21 15:29:42 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-69) graph xrun inactive (0 suppressed)[0m
+ 5月 21 15:29:42 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-69) xrun state:0x7fd5b56f8008 pending:0/0 s:85253227071918 a:85253227082552 f:85253227353361 waiting:10634 process:270809 status:triggered[0m
+ 5月 21 15:47:25 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 15:47:57 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 16:21:07 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-63) graph xrun inactive (0 suppressed)[0m
+ 5月 21 16:21:07 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-63) xrun state:0x7fd5b56f8008 pending:0/0 s:88338117767679 a:88338117777555 f:88338118058234 waiting:9876 process:280679 status:triggered[0m
+ 5月 21 16:41:33 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-63) graph xrun inactive (0 suppressed)[0m
+ 5月 21 16:41:33 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-63) xrun state:0x7fd5b56f8008 pending:0/0 s:89564600679358 a:89564600711704 f:89564600954326 waiting:32346 process:242622 status:triggered[0m
+ 5月 21 17:15:38 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-63) graph xrun not-triggered (0 suppressed)[0m
+ 5月 21 17:15:38 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-63) xrun state:0x7fd5b56f8008 pending:1/2 s:91608924897674 a:91608925050162 f:91608925465392 waiting:152488 process:415230 status:triggered[0m
+ 5月 21 17:43:18 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-63) graph xrun not-triggered (0 suppressed)[0m
+ 5月 21 17:43:18 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-63) xrun state:0x7fd5b56f8008 pending:0/2 s:93268786192322 a:93268786258250 f:93268951161387 waiting:65928 process:164903137 status:triggered[0m
+ 5月 21 17:43:18 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.audioconvert: 0x56350ab34bb0: (0 suppressed) out of buffers on port 0 3[0m
+ 5月 21 19:48:53 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 21 19:49:07 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 21 19:49:34 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 22 13:17:48 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 22 13:25:35 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 22 13:45:42 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 22 13:47:09 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 22 15:45:26 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 22 15:45:26 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 22 15:45:29 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 22 15:45:32 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 23 10:00:15 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists[0m
+ 5月 23 10:22:37 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 10:23:22 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 10:40:03 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-81) graph xrun not-triggered (0 suppressed)[0m
+ 5月 23 10:40:03 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-81) xrun state:0x7fd5b4d99008 pending:1/3 s:110686470097708 a:110686470252642 f:110686470748819 waiting:154934 process:496177 status:triggered[0m
+ 5月 23 11:00:24 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.sink.media: 0x56350ac312b8: error 24[0m
+ 5月 23 11:00:24 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-81) running -> error (Received error event)[0m
+ 5月 23 11:00:24 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5: Failure in Bluetooth audio transport /org/bluez/hci0/dev_F4_9D_8A_5C_39_DC/sep2/fd11[0m
+ 5月 23 11:26:53 fedora wireplumber[100362]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 11:31:43 fedora wireplumber[100362]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 11:31:43 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 592.[0m
+ 5月 23 11:31:43 fedora wireplumber[100362]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 11:31:43 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 592 and the job result is done.[0m
+ 5月 23 11:31:43 fedora systemd[2164]: [0;1;39m[0;1;31m[0;1;39mwireplumber.service: Consumed 13min 29.278s CPU time, 20.2M memory peak, 7.2M memory swap peak.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Resources consumed by unit runtime[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT completed and consumed the indicated resources.[0m
+ 5月 23 11:31:43 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 592.[0m
+ 5月 23 11:31:43 fedora wireplumber[177831]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 11:31:43 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 11:31:43 fedora wireplumber[177831]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 11:31:44 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwplua: [string "common-utils.lua"]:71: attempt to index a nil value (field 'source_plugin')[0m
+                                              [0;1;38:5:185mstack traceback:[0m
+                                              [0;1;38:5:185m        [string "common-utils.lua"]:71: in function 'common-utils.get_object_manager'[0m
+                                              [0;1;38:5:185m        [string "common-utils.lua"]:76: in function 'common-utils.get_default_metadata_object'[0m
+                                              [0;1;38:5:185m        [string "find-defined-target.lua"]:37: in function <[string "find-defined-target.lua"]:24>[0m
+ 5月 23 11:31:44 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwplua: [string "common-utils.lua"]:71: attempt to index a nil value (field 'source_plugin')[0m
+                                              [0;1;38:5:185mstack traceback:[0m
+                                              [0;1;38:5:185m        [string "common-utils.lua"]:71: in function 'common-utils.get_object_manager'[0m
+                                              [0;1;38:5:185m        [string "linking-utils.lua"]:331: in function 'linking-utils.findDefaultLinkable'[0m
+                                              [0;1;38:5:185m        [string "find-default-target.lua"]:37: in function <[string "find-default-target.lua"]:23>[0m
+ 5月 23 11:31:44 fedora wireplumber[177831]: [31:36:27.340538092] [177831]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 11:31:44 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 11:32:41 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 11:33:41 fedora wireplumber[177831]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 11:33:41 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 612.[0m
+ 5月 23 11:33:41 fedora wireplumber[177831]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 11:33:41 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x563634cce4f0: leaked proxy 0x563634d11a80 id:3[0m
+ 5月 23 11:33:41 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x563634cce4f0: leaked proxy 0x563634dcb830 id:4[0m
+ 5月 23 11:33:41 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x563634cce4f0: leaked proxy 0x563634d97dd0 id:6[0m
+ 5月 23 11:33:41 fedora wireplumber[177831]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x563634cce4f0: leaked proxy 0x563634bc6480 id:9[0m
+ 5月 23 11:33:41 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 612 and the job result is done.[0m
+ 5月 23 11:33:41 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 612.[0m
+ 5月 23 11:33:41 fedora wireplumber[178317]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 11:33:41 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 11:33:41 fedora wireplumber[178317]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 11:33:42 fedora wireplumber[178317]: [31:38:24.977090164] [178317]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 11:33:42 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 11:40:47 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_input.F4_9D_8A_5C_39_DC.0-38) graph xrun not-triggered (0 suppressed)[0m
+ 5月 23 11:40:47 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-38) xrun state:0x7f614a202008 pending:1/2 s:114330204388142 a:114330204513081 f:114330204520412 waiting:124939 process:7331 status:triggered[0m
+ 5月 23 11:40:47 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-35) graph xrun not-triggered (0 suppressed)[0m
+ 5月 23 11:40:47 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-35) xrun state:0x7f614a201008 pending:1/1 s:114330209977197 a:114330210064644 f:114330210093176 waiting:87447 process:28532 status:triggered[0m
+ 5月 23 11:40:47 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.audioconvert: 0x555ef6c99b40: (0 suppressed) out of buffers on port 0 1[0m
+ 5月 23 11:40:52 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_input.F4_9D_8A_5C_39_DC.0-38) graph xrun inactive (2 suppressed)[0m
+ 5月 23 11:40:52 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-38) xrun state:0x7f614a202008 pending:0/0 s:114335233719963 a:114335233730430 f:114335233732953 waiting:10467 process:2523 status:triggered[0m
+ 5月 23 11:40:52 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-35) graph xrun inactive (0 suppressed)[0m
+ 5月 23 11:40:52 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-35) xrun state:0x7f614a201008 pending:0/0 s:114335233984818 a:114335233995904 f:114335234073923 waiting:11086 process:78019 status:triggered[0m
+ 5月 23 11:45:08 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 632.[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x555ef69ddc20: leaked proxy 0x555ef6a11210 id:3[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x555ef69ddc20: leaked proxy 0x555ef6a22120 id:4[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x555ef69ddc20: leaked proxy 0x555ef6aa09b0 id:6[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x555ef69ddc20: leaked proxy 0x555ef6a9cd60 id:9[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x555ef69ddc20: leaked proxy 0x555ef6cb81b0 id:10[0m
+ 5月 23 11:45:08 fedora wireplumber[178317]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x555ef69ddc20: leaked proxy 0x555ef6cb8b70 id:11[0m
+ 5月 23 11:45:08 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 632 and the job result is done.[0m
+ 5月 23 11:45:08 fedora systemd[2164]: wireplumber.service: Consumed 2.134s CPU time, 8.7M memory peak.
+[0;38;5;245m░░ [0m[0;32mSubject: Resources consumed by unit runtime[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT completed and consumed the indicated resources.[0m
+ 5月 23 11:45:08 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 632.[0m
+ 5月 23 11:45:08 fedora wireplumber[180453]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 11:45:08 fedora wireplumber[180453]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 11:45:08 fedora wireplumber[180453]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 11:45:09 fedora wireplumber[180453]: [31:49:51.962722557] [180453]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 11:45:09 fedora wireplumber[180453]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 11:45:43 fedora wireplumber[180453]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-77) graph xrun inactive (0 suppressed)[0m
+ 5月 23 11:45:43 fedora wireplumber[180453]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-77) xrun state:0x7f1dbc3ff008 pending:0/0 s:114626079276292 a:114626079285269 f:114626079541171 waiting:8977 process:255902 status:triggered[0m
+ 5月 23 11:46:48 fedora wireplumber[180453]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:04:54 fedora wireplumber[180453]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:12:40 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 686.[0m
+ 5月 23 12:12:40 fedora wireplumber[180453]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:12:40 fedora wireplumber[180453]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:12:40 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 686 and the job result is done.[0m
+ 5月 23 12:12:40 fedora systemd[2164]: wireplumber.service: Consumed 1.663s CPU time, 10.2M memory peak.
+[0;38;5;245m░░ [0m[0;32mSubject: Resources consumed by unit runtime[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT completed and consumed the indicated resources.[0m
+ 5月 23 12:12:40 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 686.[0m
+ 5月 23 12:12:40 fedora wireplumber[186376]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:12:40 fedora wireplumber[186376]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:12:40 fedora wireplumber[186376]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:12:41 fedora wireplumber[186376]: [32:17:24.076390565] [186376]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:12:41 fedora wireplumber[186376]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:15:45 fedora wireplumber[186376]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:15:45 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 706.[0m
+ 5月 23 12:15:45 fedora wireplumber[186376]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:15:45 fedora wireplumber[186376]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55cf091bcb00: leaked proxy 0x55cf0921db90 id:3[0m
+ 5月 23 12:15:45 fedora wireplumber[186376]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55cf091bcb00: leaked proxy 0x55cf0924f640 id:4[0m
+ 5月 23 12:15:45 fedora wireplumber[186376]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55cf091bcb00: leaked proxy 0x55cf0925ca60 id:6[0m
+ 5月 23 12:15:45 fedora wireplumber[186376]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55cf091bcb00: leaked proxy 0x55cf09236300 id:9[0m
+ 5月 23 12:15:45 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 706 and the job result is done.[0m
+ 5月 23 12:15:45 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 706.[0m
+ 5月 23 12:15:45 fedora wireplumber[187079]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:15:45 fedora wireplumber[187079]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:15:45 fedora wireplumber[187079]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:15:46 fedora wireplumber[187079]: [32:20:29.174752027] [187079]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:15:48 fedora wireplumber[187079]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:15:48 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 726.[0m
+ 5月 23 12:15:48 fedora wireplumber[187079]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:15:48 fedora wireplumber[187079]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x561f0971b630: leaked proxy 0x561f09803b40 id:3[0m
+ 5月 23 12:15:48 fedora wireplumber[187079]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x561f0971b630: leaked proxy 0x561f09859930 id:4[0m
+ 5月 23 12:15:48 fedora wireplumber[187079]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x561f0971b630: leaked proxy 0x561f09816070 id:6[0m
+ 5月 23 12:15:48 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 726 and the job result is done.[0m
+ 5月 23 12:15:48 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 726.[0m
+ 5月 23 12:15:48 fedora wireplumber[187118]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:15:48 fedora wireplumber[187118]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:15:48 fedora wireplumber[187118]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:15:48 fedora wireplumber[187118]: [32:20:31.698333084] [187118]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:15:49 fedora wireplumber[187118]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:15:49 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 746.[0m
+ 5月 23 12:15:49 fedora wireplumber[187118]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:15:49 fedora wireplumber[187118]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55a7255561a0: leaked proxy 0x55a7255c5b90 id:3[0m
+ 5月 23 12:15:49 fedora wireplumber[187118]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55a7255561a0: leaked proxy 0x55a7257e4990 id:4[0m
+ 5月 23 12:15:49 fedora wireplumber[187118]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55a7255561a0: leaked proxy 0x55a72562c9b0 id:6[0m
+ 5月 23 12:15:49 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 746 and the job result is done.[0m
+ 5月 23 12:15:49 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 746.[0m
+ 5月 23 12:15:49 fedora wireplumber[187157]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:15:49 fedora wireplumber[187157]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:15:49 fedora wireplumber[187157]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:15:50 fedora wireplumber[187157]: [32:20:33.029079878] [187157]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:15:50 fedora wireplumber[187157]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:15:50 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 766.[0m
+ 5月 23 12:15:50 fedora wireplumber[187157]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:15:50 fedora wireplumber[187157]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x5567f77eb160: leaked proxy 0x5567f7930a50 id:3[0m
+ 5月 23 12:15:50 fedora wireplumber[187157]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x5567f77eb160: leaked proxy 0x5567f7850e50 id:4[0m
+ 5月 23 12:15:50 fedora wireplumber[187157]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x5567f77eb160: leaked proxy 0x5567f7a11330 id:6[0m
+ 5月 23 12:15:50 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 766 and the job result is done.[0m
+ 5月 23 12:15:50 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 766.[0m
+ 5月 23 12:15:50 fedora wireplumber[187191]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:15:50 fedora wireplumber[187191]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:15:50 fedora wireplumber[187191]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:15:50 fedora wireplumber[187191]: [32:20:33.834122234] [187191]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:16:06 fedora wireplumber[187191]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:16:06 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 786.[0m
+ 5月 23 12:16:06 fedora wireplumber[187191]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:16:06 fedora wireplumber[187191]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x5600072d19a0: leaked proxy 0x56000744bbb0 id:3[0m
+ 5月 23 12:16:06 fedora wireplumber[187191]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x5600072d19a0: leaked proxy 0x56000744bcd0 id:4[0m
+ 5月 23 12:16:06 fedora wireplumber[187191]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x5600072d19a0: leaked proxy 0x56000752a880 id:6[0m
+ 5月 23 12:16:06 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 786 and the job result is done.[0m
+ 5月 23 12:16:06 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 786.[0m
+ 5月 23 12:16:06 fedora wireplumber[187379]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:16:06 fedora wireplumber[187379]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:16:06 fedora wireplumber[187379]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:16:06 fedora wireplumber[187379]: [32:20:49.499622332] [187379]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:19:14 fedora wireplumber[187379]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:19:14 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 806.[0m
+ 5月 23 12:19:14 fedora wireplumber[187379]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:19:14 fedora wireplumber[187379]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55b5da47ac80: leaked proxy 0x55b5da4baa10 id:3[0m
+ 5月 23 12:19:14 fedora wireplumber[187379]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55b5da47ac80: leaked proxy 0x55b5da4d1bd0 id:4[0m
+ 5月 23 12:19:14 fedora wireplumber[187379]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.core: 0x55b5da47ac80: leaked proxy 0x55b5da4b33b0 id:6[0m
+ 5月 23 12:19:14 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 806 and the job result is done.[0m
+ 5月 23 12:19:14 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 806.[0m
+ 5月 23 12:19:14 fedora wireplumber[188219]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:19:14 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:19:14 fedora wireplumber[188219]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:19:14 fedora wireplumber[188219]: [32:23:57.788344773] [188219]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
+ 5月 23 12:21:37 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:22:12 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:23:00 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun not-triggered (0 suppressed)[0m
+ 5月 23 12:23:00 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7f5c19397008 pending:1/2 s:116863915459357 a:116863915571295 f:116863915875197 waiting:111938 process:303902 status:triggered[0m
+ 5月 23 12:23:05 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (bluez_output.F4_9D_8A_5C_39_DC.1-64) graph xrun inactive (2 suppressed)[0m
+ 5月 23 12:23:05 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mpw.node: (-64) xrun state:0x7f5c19397008 pending:0/0 s:116868955460819 a:116868955471728 f:116868955479440 waiting:10909 process:7712 status:triggered[0m
+ 5月 23 12:23:24 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:27:05 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:29:36 fedora wireplumber[188219]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mspa.bluez5.native: RFCOMM receive command but modem not available: AT+NREC=0[0m
+ 5月 23 12:35:40 fedora wireplumber[188219]: [0;1;39m[0;1;31m[0;1;39mwireplumber: stopped by signal: Terminated[0m
+ 5月 23 12:35:40 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 880.[0m
+ 5月 23 12:35:40 fedora wireplumber[188219]: [0;1;39m[0;1;31m[0;1;39mwireplumber: disconnected from pipewire[0m
+ 5月 23 12:35:40 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 880 and the job result is done.[0m
+ 5月 23 12:35:40 fedora systemd[2164]: wireplumber.service: Consumed 3.291s CPU time, 9.6M memory peak.
+[0;38;5;245m░░ [0m[0;32mSubject: Resources consumed by unit runtime[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT completed and consumed the indicated resources.[0m
+ 5月 23 12:35:40 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 880.[0m
+ 5月 23 12:35:40 fedora systemd[2164]: Stopping wireplumber.service - Multimedia Service Session Manager...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 881.[0m
+ 5月 23 12:35:40 fedora systemd[2164]: Stopped wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit UNIT has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit UNIT has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 881 and the job result is done.[0m
+ 5月 23 12:35:40 fedora systemd[2164]: Started wireplumber.service - Multimedia Service Session Manager.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 881.[0m
+ 5月 23 12:35:40 fedora wireplumber[192125]: [0;1;39m[0;1;31m[0;1;39mwireplumber: Old configuration file detected: /home/jorsonlee0112/.config/wireplumber/main.lua.d/51-bluetooth-auto-default.lua[0m
+ 5月 23 12:35:40 fedora wireplumber[192125]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mwireplumber: Lua configuration files are NOT supported in WirePlumber 0.5. You need to port them to the new format if you want to use them.[0m
+                                              [0;1;38:5:185m-> See https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[0m
+ 5月 23 12:35:40 fedora wireplumber[192125]: [0;1;39m[0;1;31m[0;1;39mwp-internal-comp-loader: Loading profile 'main'[0m
+ 5月 23 12:35:41 fedora wireplumber[192125]: [32:40:23.963880277] [192125]  INFO Camera camera_manager.cpp:325 libcamera v0.3.2
